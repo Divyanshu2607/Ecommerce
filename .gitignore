@@ -1,1 +1,24 @@
-.env
+# Laravel specific
+/vendor
+/.env
+/public/storage
+/storage/*.key
+/storage/framework/*
+/storage/logs/*
+/bootstrap/cache/*
+/.env.*
+
+# Node specific
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+# IDE specific
+/.vscode
+/.idea
+*.sublime-project
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
