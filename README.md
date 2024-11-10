@@ -21,15 +21,15 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/ecommerce-laravel.git
 
-2.**Navigate to the project directory:**
+2.**Navigate to the project directory:**:
     ```bash
     cd ecommerce-laravel
 
-3.**Install PHP dependencies:**
+3.**Install PHP dependencies**:
     ```bash
     composer install
     
-4.**Install Node.js dependencies:**
+4.**Install Node.js dependencies**:
     ```bash
     npm install
 
