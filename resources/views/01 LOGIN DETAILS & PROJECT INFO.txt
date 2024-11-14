@@ -9,7 +9,7 @@
 
 ---Admin Login Details---
 
-Email   : admin@mail.com
+Email   : admin@mail.com       //divyanshu@mail.com
 Password: codeastro.com
 
 --Customer Login Details---
