@@ -1,7 +1,7 @@
 # Laravel specific
 /vendor
 /.env
-/public/storage
+
 /storage/*.key
 /storage/framework/*
 /storage/logs/*
